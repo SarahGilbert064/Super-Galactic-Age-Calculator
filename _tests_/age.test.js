@@ -31,6 +31,6 @@ describe('Age', () => {
     expect(age.lifeExpVenus()).toEqual(74);
   });
   test('Should correctly divide current life expectancy on earth by a year on Mars, then subtract that by users current age on Mars', () => {
-    expect(age.lifeExpMars()).toEqual(20);
+    expect(age.lifeExpMars()).toEqual(24);
   });
 });
