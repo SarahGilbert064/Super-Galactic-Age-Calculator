@@ -20,7 +20,8 @@
   |Should correctly take life expectancy for earth and subtract user age. | 29 | 46 |
   |Should correctly divide current life expectancy on earth by a year on Mercury, then subtract that by user's current age on Mercury. | 29 | 46 |
   |Should correctly divide current life expectancy on earth by a year on Venus, then subtract that by user's current age on Venus. | 29 | 74 |
-  |Should correctly divide current life expectancy on earth by a year on Mars, then subtract that by user's current age on Mars. | 29 | 25 |
+  |Should correctly divide current life expectancy on earth by a year on Mars, then subtract that by user's current age on Mars. | 29 | 24 |
+  |Should correctly divide current life expectancy on earth by a year on Jupiter, then subtract that by user's current age on Jupiter. | 29 | 4 |
 
 
 

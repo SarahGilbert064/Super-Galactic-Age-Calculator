@@ -33,4 +33,7 @@ describe('Age', () => {
   test('Should correctly divide current life expectancy on earth by a year on Mars, then subtract that by users current age on Mars', () => {
     expect(age.lifeExpMars()).toEqual(24);
   });
+  test('Should correctly divide current life expectancy on earth by a year on Jupiter, then subtract that by users current age on Jupiter', () => {
+    expect(age.lifeExpJupiter()).toEqual(10);
+  })
 });
