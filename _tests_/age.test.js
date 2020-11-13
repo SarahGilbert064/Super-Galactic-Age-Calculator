@@ -7,7 +7,7 @@ describe('Age', () => {
     age = new Age(29);
   });
   test('Should correctly create an age object with current age', () => {
-    expect(age.currentAge).toEqal(29);
+      expect(age.currentAge).toEqual(29);
   });
   
 });
