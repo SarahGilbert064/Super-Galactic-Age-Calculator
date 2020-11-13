@@ -9,7 +9,7 @@ describe('Age', () => {
   test('Should correctly create an age object with current age', () => {
       expect(age.currentAge).toEqual(29);
   });
-    test('Should correctly take user age and divide it by 0.24 to determine age on Mercury', () => {
-      expect(age.mercuryTotal).toEual(121);
+    test('Should correctly take user age,divide it by 0.24, and then round up to determine age on Mercury', () => {
+      expect(age.mercuryTotal()).toEqual(121);
   });
 });

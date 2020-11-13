@@ -13,7 +13,7 @@
   | :-------------------- | :------------------------------------- | :-------------------------- |
   | Age Function |||
   |Should correctly create an age object with current age | (my age) | 29 |
-  |FILL IN |
+  |Should correctly take user age,divide it by 0.24, and then round up to determine age on Mercury | 29 | 121 |
   |FILL IN| 
   |FILL IN|
 
