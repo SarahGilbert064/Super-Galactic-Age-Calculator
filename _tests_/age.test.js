@@ -25,6 +25,6 @@ describe('Age', () => {
     expect(age.lifeExEarth()).toEqual(46);
   });
   test('Should correctly divide current life expectancy on earth by mercuryYear, then subtract that by user current age on Mercury', () => {
-    expect(age.lifeExMercury()).toEqual(93);
+    expect(age.lifeExMercury()).toEqual(192);
   });
 });
