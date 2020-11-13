@@ -16,6 +16,6 @@ describe('Age', () => {
       expect(age.venusTotal()).toEqual(47);
   });
   test('Should correctly take user age, divide it by 1.88, and then round up to determine age on Mars', () => {
-    expect(age.marsTotal()).toequal(15);
+    expect(age.marsTotal()).toEqual(15);
   });
 });
