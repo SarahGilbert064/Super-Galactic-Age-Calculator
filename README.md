@@ -22,6 +22,7 @@
   |Should correctly divide current life expectancy on earth by a year on Venus, then subtract that by user's current age on Venus. | 29 | 74 |
   |Should correctly divide current life expectancy on earth by a year on Mars, then subtract that by user's current age on Mars. | 29 | 24 |
   |Should correctly divide current life expectancy on earth by a year on Jupiter, then subtract that by user's current age on Jupiter. | 29 | 4 |
+  Should correctly take user's age and determine the amount of years they have lived pasted the life expectancy rate. | 80 | 5 |
 
 
 

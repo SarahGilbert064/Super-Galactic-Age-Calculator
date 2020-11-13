@@ -3,8 +3,10 @@ import Age from "./../src/js/age.js";
 
 describe('Age', () => {
   let age;
+  let oldAge;
   beforeEach(() => {
     age = new Age(29);
+    oldAge = new Age (80);
   });
   test('Should correctly create an age object with current age', () => {
       expect(age.currentAge).toEqual(29);
@@ -35,5 +37,8 @@ describe('Age', () => {
   });
   test('Should correctly divide current life expectancy on earth by a year on Jupiter, then subtract that by users current age on Jupiter', () => {
     expect(age.lifeExpJupiter()).toEqual(4);
-  })
+  });
+  test('Should correctly take users age and determine the amount of years they have lived pasted the life expectancy rate', () => {
+    expect(oldAge.extraYears()).toEqual(10);
+  });
 });
