@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1605308758300" clover="3.2.0">
-  <project timestamp="1605308758300" name="All files">
+<coverage generated="1605309472084" clover="3.2.0">
+  <project timestamp="1605309472084" name="All files">
     <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11" elements="27" coveredelements="27" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
     <file name="age.js" path="E:\Super-Galactic-Age-Calculator\src\js\age.js">
       <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11"/>

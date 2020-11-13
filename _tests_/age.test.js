@@ -39,6 +39,6 @@ describe('Age', () => {
     expect(age.lifeExpJupiter()).toEqual(4);
   });
   test('Should correctly take users age and determine the amount of years they have lived pasted the life expectancy rate', () => {
-    expect(oldAge.extraYears()).toEqual(10);
+    expect(oldAge.extraYears()).toEqual(5);
   });
 });
