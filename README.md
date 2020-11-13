@@ -18,8 +18,9 @@
   |Should correctly take user age, divide it by 1.88, and then round the result to determine age on Mars. | 29 | 15 |
   |Should correctly take user age, divide it by 11.86, and then round the result to determine age on Jupiter. | 29 | 2 |
   |Should correctly take life expectancy for earth and subtract user age. | 29 | 46 |
-  |Should correctly divide current life expectancy on earth by Mercury's year, then subtract that by user's current age on Mercury. | 29 | 46 |
-  |Should correctly divide current life expectancy on earth by Venus's year, then subtract that by user's current age on Venus. | 29 | 74 |
+  |Should correctly divide current life expectancy on earth by a year on Mercury, then subtract that by user's current age on Mercury. | 29 | 46 |
+  |Should correctly divide current life expectancy on earth by a year on Venus, then subtract that by user's current age on Venus. | 29 | 74 |
+  |Should correctly divide current life expectancy on earth by a year on Mars, then subtract that by user's current age on Mars. | 29 | 25 |
 
 
 

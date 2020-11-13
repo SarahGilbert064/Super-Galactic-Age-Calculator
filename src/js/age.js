@@ -38,4 +38,8 @@ export default class Age {
   lifeExpVenus() {
     return Math.round((lifeExp/venusYear) - this.currentAge/venusYear);
   }
+
+  lifeExpMars() {
+    return Math.round((lifeExp/marsYear) - this.currentAge/marsYear);
+  }
 };  
