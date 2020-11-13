@@ -22,9 +22,12 @@ describe('Age', () => {
     expect(age.jupitersTotal()).toEqual(2);
   });
   test('Should correctly take life expectancy for earth and subtract user age', () => {
-    expect(age.lifeExEarth()).toEqual(46);
+    expect(age.lifeExpEarth()).toEqual(46);
   });
   test('Should correctly divide current life expectancy on earth by mercuryYear, then subtract that by user current age on Mercury', () => {
-    expect(age.lifeExMercury()).toEqual(192);
+    expect(age.lifeExpMercury()).toEqual(192);
+  });
+  test('Should correctly divide current life expectancy on earth by venusYear, then subtract that by user current age on Venus', () => {
+    expect(age.lifeExpVenus()).toEqual(7);
   });
 });

@@ -27,11 +27,15 @@ export default class Age {
     return Math.round(this.currentAge/jupiterYear);
   }
 
-  lifeExEarth () {
+  lifeExpEarth () {
     return Math.round(lifeExp - this.currentAge);
   }
 
-  lifeExMercury() {
+  lifeExpMercury() {
     return Math.round((lifeExp/mercuryYear) - this.currentAge/mercuryYear);
+  }
+
+  lifeExpVenus() {
+    return Math.round((lifeExp/venusYear) - this.currentAge/venusYear);
   }
 };  
