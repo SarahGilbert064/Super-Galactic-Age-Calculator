@@ -22,6 +22,6 @@ describe('Age', () => {
     expect(age.jupitersTotal()).toEqual(2);
   });
   test('Should correctly take life expectancy for earth and subtract user age', () => {
-    expect(age.lifeExEarth()).toequal(46);
+    expect(age.lifeExEarth()).toEqual(46);
   })
 });

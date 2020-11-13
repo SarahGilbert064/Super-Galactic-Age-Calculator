@@ -17,7 +17,7 @@
   |Should correctly take user age, divide it by 0.62, and then round the result to determine age on Venus. | 29 | 47 | 
   |Should correctly take user age, divide it by 1.88, and then round the result to determine age on Mars. | 29 | 15 |
   |Should correctly take user age, divide it by 11.86, and then round the result to determine age on Jupiter. | 29 | 2 |
-  |Should correctly take user age and subtract it from lifeEx total | 29 | 46 |
+  |Should correctly take life expectancy for earth and subtract user age. | 29 | 46 |
 
 
 
