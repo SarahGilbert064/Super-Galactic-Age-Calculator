@@ -31,4 +31,7 @@ export default class Age {
     return Math.round(lifeExp - this.currentAge);
   }
 
+  lifeExMercury() {
+    return Math.round((lifeExp/mercuryYear) - this.currentAge/mercuryYear);
+  }
 };  
