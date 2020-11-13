@@ -19,6 +19,6 @@ describe('Age', () => {
     expect(age.marsTotal()).toEqual(15);
   });
   test('Should correctly take user age, divide it by 11.86, and then round the result to determine age on Jupiter', () => {
-    expect(age.jupitersTotal()).toequal(2);
+    expect(age.jupitersTotal()).toEqual(2);
   });
 });
