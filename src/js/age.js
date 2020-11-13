@@ -1,5 +1,6 @@
 const mercuryYear = 0.24;
 const venusYear = 0.62;
+const marsYear = 1.88;
 
 
 
@@ -14,5 +15,9 @@ export default class Age {
 
   venusTotal() {
     return Math.round(this.currentAge/venusYear);
+  }
+
+  marsTotal() {
+    return Math.round(this.currentAge/marsYear);
   }
 };  

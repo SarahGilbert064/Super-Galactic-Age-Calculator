@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1605293638233" clover="3.2.0">
-  <project timestamp="1605293638233" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="8" coveredelements="8" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+<coverage generated="1605294169459" clover="3.2.0">
+  <project timestamp="1605294169459" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="11" coveredelements="11" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
     <file name="age.js" path="E:\Super-Galactic-Age-Calculator\src\js\age.js">
-      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
-      <line num="8" count="3" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
