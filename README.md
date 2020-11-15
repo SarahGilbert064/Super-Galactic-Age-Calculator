@@ -39,7 +39,7 @@
 
 2. Click on the green "Code" button and copy the repository HTTPS URL
 
-3. Open your machine terminal and use the command 'git clone https://github.com/SarahGilbert064/mr-roboger in the directory you would like to clone the repository
+3. Open your machine terminal and use the command 'git clone https://github.com/SarahGilbert064/Super-Galactic-Age-Calculator in the directory you would like to clone the repository
 
 4. Another option is to click "Download Zip" and open the file on your machine.
 

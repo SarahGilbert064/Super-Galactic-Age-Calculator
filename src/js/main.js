@@ -11,13 +11,13 @@ $(document).ready(function() {
     event.preventDefault();
 
     $(".planets").each(function() {
-      let currentAge =$(this).find("#planets").val();
+      let planet =$(this).find("#planets").val();
       let age = $(this).text("#user-age").val();
       return this.value;
     });
 
-    let newAge = new Age(currentAge);
+    let newAge = new Age(planet, age);
 
-    $("#age-output").show();
+    $("#age-output").text(newAge.)
   });
 });
