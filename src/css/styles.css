@@ -1,0 +1,23 @@
+
+body {
+background-image: url(https://www.ubackground.com/_ph/86/2/401297329.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.planets {
+  text-align: center;
+  color: whitesmoke;
+  display: inline-block;
+  position: relative;
+  top: 125px;
+  left: 300px;
+  font-size: 25px;
+}
+
+#button {
+  display: inline-block;
+  background-color: darkgray;
+  font-family: 'Courier New', Courier, monospace ;
+  transition-duration: 0.5s;
+}

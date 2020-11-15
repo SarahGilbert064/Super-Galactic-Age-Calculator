@@ -48,6 +48,6 @@ export default class Age {
   }
 
   extraYears() {
-    return Math.abs(this.currentAge - lifeExp);
+    return Math.abs(lifeExp - this.currentAge);
   }
-};  
+}  
