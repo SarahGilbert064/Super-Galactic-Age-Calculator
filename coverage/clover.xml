@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1605309472084" clover="3.2.0">
-  <project timestamp="1605309472084" name="All files">
-    <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11" elements="27" coveredelements="27" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
-    <file name="age.js" path="E:\Super-Galactic-Age-Calculator\src\js\age.js">
-      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11"/>
+<coverage generated="1605833585860" clover="3.2.0">
+  <project timestamp="1605833585860" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11" elements="28" coveredelements="28" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
+    <file name="age.js" path="E:\Epicodus\Super-Galactic-Age-Calculator\src\js\age.js">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -11,15 +11,16 @@
       <line num="5" count="1" type="stmt"/>
       <line num="11" count="22" type="stmt"/>
       <line num="15" count="1" type="stmt"/>
-      <line num="19" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
-      <line num="27" count="1" type="stmt"/>
-      <line num="31" count="1" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-      <line num="39" count="1" type="stmt"/>
-      <line num="43" count="1" type="stmt"/>
-      <line num="47" count="1" type="stmt"/>
-      <line num="51" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

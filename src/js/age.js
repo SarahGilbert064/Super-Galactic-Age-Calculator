@@ -12,7 +12,8 @@ export default class Age {
   }
 
   mercuryTotal() {
-    return Math.round(this.currentAge/mercuryYear);
+    let result = Math.round(this.currentAge/mercuryYear);
+    return `On Mercury, you are ${result} years old!`
   }
 
   venusTotal() {
