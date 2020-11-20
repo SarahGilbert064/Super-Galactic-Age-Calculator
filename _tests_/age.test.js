@@ -15,7 +15,7 @@ describe('Age', () => {
       expect(age.mercuryTotal()).toEqual("On Mercury, you are 121 years old!");
   });
   test('Should correctly take user age, divide it by 0.62, and then round up to determine age on Venus', () => {
-      expect(age.venusTotal()).toEual("On Venus, you are 47 years old!");
+      expect(age.venusTotal()).toEqual("On Venus, you are 47 years old!");
   });
   test('Should correctly take user age, divide it by 1.88, and then round up to determine age on Mars', () => {
     expect(age.marsTotal()).toEqual(15);
